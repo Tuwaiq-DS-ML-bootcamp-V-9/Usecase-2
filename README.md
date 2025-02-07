@@ -1,3 +1,8 @@
-# Usecase-2
+# World Happiness Reports
 
-![Uploading Screenshot 2025-02-07 at 12.31.46 PM.png…]()
+![World Happiness Report](World Happiness.png)
+
+The **World Happiness Report** is a landmark survey of global happiness that ranks countries based on how happy their citizens perceive themselves to be.
+---
+#### Emtnan Alomireni
+
